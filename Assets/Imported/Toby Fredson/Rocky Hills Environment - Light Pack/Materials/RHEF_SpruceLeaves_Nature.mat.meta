@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c1fce4e7be6243d439cceab63dfc77f7
+labels:
+- cliff
+- dirt
+- grass
+- leaves
+- materials
+- pine
+- rockgrass
+- rocks
+- smalldetails
+- spruce
+- stones
+- tree
+timeCreated: 1493850735
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: materials
+  assetBundleVariant: 
